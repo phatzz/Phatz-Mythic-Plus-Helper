@@ -6,6 +6,10 @@ Features:
 # Cast spell on explosives (mouseover). IMPLEMENTED
 # Cast spell on Spiteful Shade. NOT IMPLEMENTED
 
+Installation:
+Drop the folder into aimsharp\bin\plugins
+Load in plugin manager and configure spell and spell delay.
+
 Lots of code borrowed from Aya's kick plugin, thanks to Aya and Snoogen for keeping their plugins opensource.
 
 I mostly play Paladin at the moment so most spells are untested but please give feedback.
