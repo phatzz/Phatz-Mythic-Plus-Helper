@@ -10,7 +10,7 @@ Cast spell on Spiteful Shade. NOT IMPLEMENTED
 </details>
 
 <details>
-<Summary>#Installation</Summary>
+<Summary>Installation</Summary>
 Drop the folder into aimsharp\bin\plugins
 Load in plugin manager and configure spell and spell delay.
 </details>
