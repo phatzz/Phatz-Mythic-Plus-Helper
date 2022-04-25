@@ -22,7 +22,7 @@ A simple plugin to help with different mythic plus affixes.
 
 <details>
 <Summary>Usage</summary>
-<li>Works best with ranged, spammable spells with no cooldowns that don't interfere with your damage rotation.
+<li>Works best with ranged, spammable spells with no cooldowns that don't interfere with your damage rotation. Moonfire and Frost Shock are perfect spells for this.
 <li>If the spell has a 6second cooldown you can (obviously) only kill explosives every 6 seconds, for example.
 
 <li>Recommend using mouseover to control what explosive to kill and not to interfere with your main damage rotation. 
