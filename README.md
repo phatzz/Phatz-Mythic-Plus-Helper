@@ -24,7 +24,7 @@ Recommend using mouseover to control what explosive to kill and not to interfere
 # Advanced spiteful shade logic.
 
 ### Buy me a coffee:
-https://www.buymeacoffee.com/xBPGQvDa8c
+[Buy Phatz a coffee](https://www.buymeacoffee.com/xBPGQvDa8c)
 
 ### Feedback and help:
 [Phatz Profiles discord channel](https://discord.gg/DaWn95VxPY)
