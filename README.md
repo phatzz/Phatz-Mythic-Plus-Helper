@@ -37,7 +37,7 @@ A simple plugin to help with different mythic plus affixes.
  
 <details>
 <Summary>Information</summary>
-<li>Thanks to Aya and Snoogen for keeping their plugins opensource.
+<li>Thanks to Aya and Snoogen for keeping their plugins open source.
 <li> Myself i mostly play Paladin at the moment so most spells are untested but please give feedback.
 <li>I can add any spell on request, just send me the spellname and the range of the spell in my discord server.
 </details>
