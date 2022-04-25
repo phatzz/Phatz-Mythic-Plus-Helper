@@ -11,7 +11,7 @@ A simple plugin to help with different mythic plus affixes.
 </details>
 
 <details>
-<Summary>Installation the plugin</Summary>
+<Summary>Installing the plugin</Summary>
 <li>Drop the folder into aimsharp\bin\plugins.
 <li>Click "Plugin Manager" in aimsharp window
 <li>Select "Phatz Mythic Plus Affix Helper"
@@ -23,7 +23,7 @@ A simple plugin to help with different mythic plus affixes.
 <details>
 <Summary>Updating the plugin</Summary>
 <li>If you are updating you may need to unload the plugin first for aimsharp to refresh it 
-<li>Unload plugin --> Start Rotation --> Stop Rotation --> Load Plugin --> Start Rotation
+<li>Unload plugin -> Start Rotation -> Stop Rotation -> Load Plugin -> Start Rotation
 </details>
 <details>
 <Summary>Usage</summary>
