@@ -11,7 +11,11 @@ A simple plugin to help with different mythic plus affixes.
 <details>
 <Summary>Installation</Summary>
 <li>Drop the folder into aimsharp\bin\plugins.
-<li>Load in plugin manager and configure spell and spell delay.
+<li>Click "Plugin Manager" in aimsharp window
+<li> Select "Phatz Mythic Plus Affix Helper
+<li>Click "Done" and then "Load"
+<li>Click Configure and go to the correct tab to select spell and set delays.
+<li> Go carry your group by killing explosives.
 </details>
 
 <details>
