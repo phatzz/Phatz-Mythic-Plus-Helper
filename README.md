@@ -45,9 +45,9 @@ A simple plugin to help with different mythic plus affixes.
 <Summary>To do list</Summary>
 <li>Add support for using more than 1 spell on explosives.
 <li>Advanced logic per class instead of working per spell, for example using different spells depending on the range to the explosive for melee classes and use spell B if spell A is on cooldown, etc
-<li>Advanced spiteful shade logic.
-<li>Clear bursting stacks.
-<li>Dispel Raging.
+<li>Spiteful Shade logic.
+<li>Clear bursting stacks?
+<li>Dispel Raging?
 <li>Other mythic plus features??
  </details>
 
