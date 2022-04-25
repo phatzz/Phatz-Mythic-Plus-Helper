@@ -10,7 +10,7 @@ A simple plugin to help with different mythic plus affixes.
 
 <details>
 <Summary>Installation</Summary>
-<li>Drop the folder into aimsharp\bin\plugins
+<li>Drop the folder into aimsharp\bin\plugins.
 <li>Load in plugin manager and configure spell and spell delay.
 </details>
 
