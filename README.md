@@ -6,9 +6,11 @@ I mostly play Paladin at the moment so most spells are untested but please give 
 
 I can add any spell on request, just send me the spellname and the range of the spell.
 Works best with ranged, spammable spells with no cooldowns that don't interfere with your damage rotation.
+If your spell has a 6second cooldown you can (obviously) only kill explosives every 6 seconds, for example.
 Recommend using mouseover only to control what explosive to kill and not to interfere with your main damage rotation. I can not guarantee which spell aimsharp will cast if you directly target the explosive.
 
 
 Possible future ToDo (not likely to be soon.)
 - Add support for using more than 1 spell.
 - Add support for stun/slow Spiteful Shade on Spiteful Affix.
+- Add more advanced logic per class instead of working per spell, for example using different spells depening on the range to the explosive for melee classes and cooldown logic.
