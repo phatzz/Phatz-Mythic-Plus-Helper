@@ -1,5 +1,5 @@
 
-<img src=\Phatz logo.png</Img>
+<img src=\Phatz logo.png>
 # Phatz Mythic Plus Helper
 A simple plugin to help with different mythic plus affixes.
 
