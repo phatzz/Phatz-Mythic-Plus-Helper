@@ -2,7 +2,7 @@
 A simple plugin to help with different mythic plus affixes.
 
 Features:
-# Cast spell on explosives (target). IMPLEMENTED
+ Cast spell on explosives (target). IMPLEMENTED
 # Cast spell on explosives (mouseover). IMPLEMENTED
 # Cast spell on Spiteful Shade. NOT IMPLEMENTED
 
@@ -27,4 +27,4 @@ Recommend using mouseover to control what explosive to kill and not to interfere
 https://www.buymeacoffee.com/xBPGQvDa8c
 
 ### Feedback and help:
-https://discord.gg/DaWn95VxPY
+[Phatz Profiles discord channel](https://discord.gg/DaWn95VxPY)
