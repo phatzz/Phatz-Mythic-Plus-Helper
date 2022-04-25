@@ -1,4 +1,4 @@
-# Phatz-Mythic-Plus-Affix-Helper
+# Phatz Mythic Plus Helper
 A simple plugin to help with different mythic plus affixes.
 
 <details>
@@ -45,8 +45,8 @@ A simple plugin to help with different mythic plus affixes.
 <li>Other mythic plus features.
  </details>
 
-# Buy me a coffee:
+# Buy me a coffee
 [Buy Phatz a coffee](https://www.buymeacoffee.com/xBPGQvDa8c)
 
-# Join my discord:
+# Join my discord
 [Phatz Profiles discord channel](https://discord.gg/DaWn95VxPY)
