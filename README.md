@@ -16,12 +16,14 @@ A simple plugin to help with different mythic plus affixes.
 <li>Click "Done" and then "Load"
 <li>Click Configure and go to the correct tab to select spell and set delays.
 <li> Go carry your group by killing explosives.
+<li>If you are updating you may need to unload the plugin first for aimsharp to refresh it 
+<li>Unload plugin --> Start Rotation --> Stop Rotation --> Load Plugin --> Start Rotation
 </details>
 
 <details>
 <Summary>Usage</summary>
 <li>Works best with ranged, spammable spells with no cooldowns that don't interfere with your damage rotation.
-<li>If your spell has a 6second cooldown you can (obviously) only kill explosives every 6 seconds, for example.
+<li>If the spell has a 6second cooldown you can (obviously) only kill explosives every 6 seconds, for example.
 
 <li>Recommend using mouseover to control what explosive to kill and not to interfere with your main damage rotation. 
 <li>I can not guarantee which spell aimsharp will cast if you directly target the explosive. 
