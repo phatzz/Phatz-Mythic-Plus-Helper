@@ -1,6 +1,6 @@
 # Phatz-Simple-Explosive-Killer
 A simple plugin to kill explosives on mouseover/target.
-Lots of code taken from AYA's kick plugin, hence the delay settings.
+Lots of code borrowed from Aya's kick plugin, thanks to Aya and Snoogen for keeping their plugins opensource.
 
 I mostly play Paladin at the moment so most spells are untested but please give feedback.
 
