@@ -1,3 +1,5 @@
+
+
 # Phatz Mythic Plus Helper
 A simple plugin to help with different mythic plus affixes.
 
