@@ -14,10 +14,10 @@ A simple plugin to help with different mythic plus affixes.
 <Summary>Installation</Summary>
 <li>Drop the folder into aimsharp\bin\plugins.
 <li>Click "Plugin Manager" in aimsharp window
-<li> Select "Phatz Mythic Plus Affix Helper
+<li>Select "Phatz Mythic Plus Affix Helper"
 <li>Click "Done" and then "Load"
 <li>Click Configure and go to the correct tab to select spell and set delays.
-<li> Go carry your group by killing explosives.
+<li>Go carry your group by killing explosives.
 <li>If you are updating you may need to unload the plugin first for aimsharp to refresh it 
 <li>Unload plugin --> Start Rotation --> Stop Rotation --> Load Plugin --> Start Rotation
 </details>
