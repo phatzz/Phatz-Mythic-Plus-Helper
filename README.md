@@ -5,7 +5,8 @@ A simple plugin to help with different mythic plus affixes.
 <Summary>Features</Summary>
 <li>Cast spell on explosives (target). IMPLEMENTED
 <li>Cast spell on explosives (mouseover). IMPLEMENTED
-<li>Cast spell on Spiteful Shade. NOT IMPLEMENTED
+<li>Cast spell on Spiteful Shade (target). NOT IMPLEMENTED
+<li> Cast spell on Spiteful Shade (mouseover). NOT IMPLEMENTED
 </details>
 
 <details>
