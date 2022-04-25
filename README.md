@@ -30,14 +30,16 @@ I mostly play Paladin at the moment so most spells are untested but please give 
 I can add any spell on request, just send me the spellname and the range of the spell.
 </details>
 
-# Possible future ToDo (when/if i learn to code) - NO PROMISES!
+<details>
+ <Summary>Possible future ToDo</Summary>
 Consider making spell text like in Snoogens queue plugin instead of dropdown.
 Add support for using more than 1 spell on explosives.
 Advanced logic per class instead of working per spell, for example using different spells depending on the range to the explosive for melee classes and use spell B if spell A is on cooldown, etc.
 Advanced spiteful shade logic.
+ </details>
 
 # Buy me a coffee:
 [Buy Phatz a coffee](https://www.buymeacoffee.com/xBPGQvDa8c)
 
-# Feedback and help:
+# Join my discord:
 [Phatz Profiles discord channel](https://discord.gg/DaWn95VxPY)
